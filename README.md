@@ -5,9 +5,9 @@ The 10 APIs used were: CATAAS (returns an image of a cat), Yes Or No? (returns a
 
 ATTENTION:
 
-*All APIs used are free, however some require an API Key to be consumed. If you want to know more details and how to generate your own API Key, check the documentation for each API.
+* All APIs used are free, however some require an API Key to be consumed. If you want to know more details and how to generate your own API Key, check the documentation for each API.
 
-*When using the project, edit the compose.yml.example to compose.yml and replace the TOKENS with your own.
+* When using the project, edit the compose.yml.example to compose.yml and replace the TOKENS with your own.
 
 API LINKS:
 
