@@ -31,7 +31,6 @@ defmodule Discordbot do
         !filme - retorna um filme aleatório do studio ghibli.
         !pais <nome> - responde informações sobre o país.
         !origem <nome completo> - mostra a origem do nome.
-        !emailfinder <primeiro nome> <sobrenome> <domínio> - Encontra um e-mail baseado no nome e domínio.")
 
       String.starts_with?(msg.content, "!conselho") ->
 
