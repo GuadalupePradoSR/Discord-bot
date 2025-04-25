@@ -4,4 +4,3 @@ services:
     environment:
       DISCORD_TOKEN: "SEU-TOKEN-AQUI"
       ORIGEM_NOME_TOKEN: "SEU-TOKEN-AQUI"
-      EMAIL_TOKEN: "SEU-TOKEN-AQUI"
