@@ -27,3 +27,4 @@ discordbot-*.tar
 
 # api keys
 compose.yml
+token.txt
