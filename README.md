@@ -10,6 +10,7 @@ ATTENTION:
 *When using the project, edit the compose.yml.example to compose.yml and replace the TOKENS with your own.
 
 API LINKS:
+
 names: https://namsor.app/ 
 numbers: http://numbersapi.com/#42
 cat: https://cataas.com/ 
