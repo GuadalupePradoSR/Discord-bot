@@ -48,5 +48,4 @@ studio ghibli: https://ghibliapi.vercel.app/#
 advice slip: https://api.adviceslip.com/ 
 
 joke: https://v2.jokeapi.dev/ 
->>>>>>> 864a80fb5e372e1bb818a65c9cbde1f6b5ffaf4c
 
