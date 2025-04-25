@@ -11,19 +11,12 @@ ATTENTION:
 
 API LINKS:
 
-names: https://namsor.app/ 
-
-numbers: http://numbersapi.com/#42 
-
-cat: https://cataas.com/ 
-
-yes or no: https://yesno.wtf/ 
-
-countries: https://restcountries.com/ 
-
-studio ghibli: https://ghibliapi.vercel.app/# 
-
-advice slip: https://api.adviceslip.com/ 
-
-joke: https://v2.jokeapi.dev/ 
+* names: https://namsor.app/ 
+* numbers: http://numbersapi.com/#42 
+* cat: https://cataas.com/ 
+* yes or no: https://yesno.wtf/ 
+* countries: https://restcountries.com/ 
+* studio ghibli: https://ghibliapi.vercel.app/# 
+* advice slip: https://api.adviceslip.com/ 
+* joke: https://v2.jokeapi.dev/ 
 
