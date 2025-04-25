@@ -1,0 +1,3 @@
+docker machine start
+docker build -t discordbot .
+docker run -it discordbot
